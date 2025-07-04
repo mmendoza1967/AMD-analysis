@@ -32,7 +32,7 @@ AMD-analysis/
 │   └── dataAP.csv
 ├── docs/                      # Supporting documentation
 │   ├── AMD_analysis.pdf
-│   └── AMD_method_paper.pdf
+│   └── Mendoza and Araujo 2022.pdf
 ├── README.md                  # This file
 ├── LICENSE                    # License for reuse (MIT by default)
 └── .gitignore                 # Files to be ignored by Git
