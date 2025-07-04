@@ -1,6 +1,7 @@
 # AMD Analysis
 
-This repository provides R code and documentation for performing the **AMD analysis** (Average Membership Degree), a method designed to identify whether samples in a high-dimensional space form well-defined, discrete clusters, and to estimate their optimal number.
+This repository provides R code and documentation for performing the **AMD analysis** (Average Membership Degree), a method designed to identify whether samples in a high-dimensional space form well-defined, discrete clusters, and to evaluate their compactness.
+
 
 ---
 
