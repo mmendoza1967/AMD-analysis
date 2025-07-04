@@ -7,7 +7,7 @@ This repository provides R code and documentation for performing the **AMD analy
 
 ## 🧠 What is AMD analysis?
 
-The AMD analysis is a two-step method to:
+The AMD analysis is a three-step method to:
 
 1. **Test whether samples in a multidimensional space form well-defined clusters** rather than being randomly or continuously distributed.
 2. **Estimate the number of discrete groups** by identifying the value of *k* (number of clusters) that maximizes the average membership degree (AMD) in fuzzy clustering.
